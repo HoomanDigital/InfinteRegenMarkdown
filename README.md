@@ -61,19 +61,17 @@ Your agent dashboard provides a comprehensive view of each agent you create. The
    - All agent details are clearly visible in this tab
    - Shows model information, capabilities, rules, and technical details
    - Includes options to start chat, edit agent, or view metrics
-   - [Screenshot will be added here]
 
 2. **Files & Knowledge Tab**
    - Upload interface for adding information to your agent
    - Add websites, PDFs, and other documents for your agent to learn from
    - Simple drag-and-drop functionality for easy uploads
-   - [Screenshot will be added here]
 
 ## File Collection & Knowledge Base
 
 File collection is integrated within the agent dashboard UI, accessible via the Files & Knowledge tab.
 
-![File Collection UI](/file-collection.png)
+![File Collection UI](/file-upload.png)
 
 - **Bulk Uploads**: Add up to 20 files simultaneously
 - **Supported Formats**: PDF, DOCX, TXT, CSV, XLSX, and more
