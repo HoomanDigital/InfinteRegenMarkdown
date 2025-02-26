@@ -4,7 +4,7 @@
 
 InfiniteRegen is not just an AI assistant—it's a complete ecosystem where you can create, manage, and interact with multiple AI agents tailored to your specific needs.
 
-[Get Started](https://v2.infiniteregen.ai/signup)
+[Get Started](https://v2.infiniteregen.ai/sign-up)
 
 ![InfiniteRegen Interface](/display.png)
 
