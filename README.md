@@ -89,10 +89,6 @@ File collection is integrated within the agent dashboard UI, accessible via the 
 
 The "Backroom" is InfiniteRegen's powerful knowledge management system.
 
-### Public Backrooms
-
-Similar to public agents, you can create public backrooms to share knowledge bases with the community, allowing collaborative AI environments.
-
 ### Agent-to-Agent Interaction
 
 One of InfiniteRegen's most powerful features is the ability for your agents to communicate with each other:
